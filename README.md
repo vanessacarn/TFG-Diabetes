@@ -49,4 +49,4 @@ python submuestreo.py
 
 ## Autoría
 
-Vanessa [Carnero] — Grado en Ingeniería Matemática, Universidad Complutense de Madrid (2026).
+Vanessa Carnero — Grado en Ingeniería Matemática, Universidad Complutense de Madrid (2026).
